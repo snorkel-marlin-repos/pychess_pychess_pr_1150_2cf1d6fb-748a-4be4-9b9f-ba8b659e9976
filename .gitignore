@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+_build/
+build/
+dist/
+
+*.zip
+*.bak
+*.html
+*.mo
+*.*~
+
+pieces/*.png
+eco.db
+MANIFEST
